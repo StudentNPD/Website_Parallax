@@ -109,7 +109,31 @@ section #btn:hover{
     background: #3d003d;
 }
 
+/* SECTION SCROLLING */
+.sec{
+    background: #1c0522;
+    position: relative;
+    padding: 80px;
+}
 
+.sec h2{
+    font-size: 3.5vw;
+    color: #fff;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+} 
+
+.sec h3{
+    font-size: 2vw;
+    color: #fff;
+    margin-bottom: 10px;
+
+}
+
+.sec p{
+    font-size: 1.2vw;
+    color: #fff;
+}
 
 
 
