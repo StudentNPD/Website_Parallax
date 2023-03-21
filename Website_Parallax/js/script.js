@@ -20,3 +20,10 @@ window.addEventListener('scroll', function(){
     header.style.marginTop = value * 0.4 + 'px';
     persona.style.marginLeft = value * 4 + 'px';
 })
+
+/* RESPONSIVE */ 
+const navigation = document.querySelector('nav')
+document.querySelector('.menu').onclick = function (){
+    this.classList.toggle('active');
+    navigation.classList.toggle('active');
+}
