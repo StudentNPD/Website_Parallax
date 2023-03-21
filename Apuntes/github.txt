@@ -1,0 +1,5 @@
+--> Crear proyecto
+--> Tomar url 
+--> view -> command pallet -> git clone -> introducir 
+url del repositorio 
+--> 
